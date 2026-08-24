@@ -1,7 +1,95 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opencode",
+          "description": "The official opencode AI coding agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975734319,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:51:00Z",
+            "owner": "anomalyco",
+            "repo": "opencode",
+            "stars": 200887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-sdk-js",
+          "description": "Official JavaScript/TypeScript SDK for opencode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007750876,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T04:31:40Z",
+            "owner": "anomalyco",
+            "repo": "opencode-sdk-js",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-sdk-go",
+          "description": "Official Go SDK for opencode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009629503,
+            "language": "Go",
+            "last_commit": "2026-01-17T04:14:42Z",
+            "owner": "anomalyco",
+            "repo": "opencode-sdk-go",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-sdk-python",
+          "description": "Official Python SDK for opencode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009629705,
+            "language": "Python",
+            "last_commit": "2026-01-30T03:58:42Z",
+            "owner": "anomalyco",
+            "repo": "opencode-sdk-python",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": "Key features:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Persistent Memory with SQLite for tool executions and session summaries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225102492,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T12:29:01Z",
+            "owner": "DVNghiem",
+            "repo": "FlowDeck",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "FlowDeck - AI-powered multi-agent workflow orchestration with built-in safety intelligence"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:06:04.159Z",
+    "last_updated": "2026-08-24T13:53:17.921Z",
     "original_repository": "awesome-opencode/awesome-opencode",
     "original_repository_id": 1061458721,
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
