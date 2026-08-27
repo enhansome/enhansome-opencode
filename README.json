@@ -12,10 +12,10 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:44:24Z",
+            "last_commit": "2026-08-27T11:39:00Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201841
+            "stars": 201857
           }
         },
         {
@@ -89,9 +89,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:04:12.756Z",
-    "original_repository": "awesome-opencode/awesome-opencode",
-    "original_repository_id": 1061458721,
+    "last_updated": "2026-08-27T11:54:10.331Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1061458721,
+      "language": "JavaScript",
+      "last_commit": "2026-07-03T14:10:38Z",
+      "owner": "awesome-opencode",
+      "repo": "awesome-opencode",
+      "stars": 9938
+    },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
     "enhanced_repository": "enhansome/enhansome-opencode",
     "enhanced_repository_description": null,
