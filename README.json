@@ -12,11 +12,12 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:39:00Z",
+            "last_commit": "2026-08-28T11:15:10Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201857
-          }
+            "stars": 202082
+          },
+          "first_seen": "2026-08-28T11:35:42.880Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "anomalyco",
             "repo": "opencode-sdk-js",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T11:35:42.880Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "anomalyco",
             "repo": "opencode-sdk-go",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T11:35:42.880Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "anomalyco",
             "repo": "opencode-sdk-python",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T11:35:42.880Z"
         }
       ],
       "title": "Overview"
@@ -82,14 +86,15 @@
             "owner": "DVNghiem",
             "repo": "FlowDeck",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T11:35:42.880Z"
         }
       ],
       "title": "FlowDeck - AI-powered multi-agent workflow orchestration with built-in safety intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:10.331Z",
+    "last_updated": "2026-08-28T11:35:42.880Z",
     "original_repository_info": {
       "archived": false,
       "id": 1061458721,
@@ -97,7 +102,7 @@
       "last_commit": "2026-07-03T14:10:38Z",
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 9938
+      "stars": 9955
     },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
     "enhanced_repository": "enhansome/enhansome-opencode",
