@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source coding agent.",
+            "homepage": "https://opencode.ai",
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:15:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:10:06Z",
+            "open_issues": 5591,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 202082
+            "stars": 202233,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1007750876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-03T04:31:40Z",
+            "open_issues": 3,
             "owner": "anomalyco",
             "repo": "opencode-sdk-js",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1009629503,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-17T04:14:42Z",
+            "open_issues": 5,
             "owner": "anomalyco",
             "repo": "opencode-sdk-go",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1009629705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-30T03:58:42Z",
+            "open_issues": 15,
             "owner": "anomalyco",
             "repo": "opencode-sdk-python",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
         }
@@ -80,12 +100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered multi-agent workflow orchestration with built-in safety intelligence for OpenCode",
+            "homepage": null,
             "id": 1225102492,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T12:29:01Z",
+            "open_issues": 2,
             "owner": "DVNghiem",
             "repo": "FlowDeck",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "opencode",
+              "opencode-plugin",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
         }
@@ -94,15 +125,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:35:42.880Z",
+    "last_updated": "2026-08-29T04:15:26.902Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
+      "homepage": null,
       "id": 1061458721,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-03T14:10:38Z",
+      "open_issues": 288,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 9955
+      "stars": 9964,
+      "topics": []
     },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
     "enhanced_repository": "enhansome/enhansome-opencode",
