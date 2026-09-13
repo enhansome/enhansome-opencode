@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T04:36:19Z",
-            "open_issues": 5751,
+            "last_commit": "2026-09-13T04:43:27Z",
+            "open_issues": 5779,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 206796,
+            "stars": 206972,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "DVNghiem",
             "repo": "FlowDeck",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -125,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:48:54.455Z",
+    "last_updated": "2026-09-13T05:04:16.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -134,10 +134,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-07-03T14:10:38Z",
-      "open_issues": 332,
+      "open_issues": 337,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 10201,
+      "stars": 10214,
       "topics": []
     },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
