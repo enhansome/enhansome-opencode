@@ -45,9 +45,9 @@
 
 | Project                                                                                                                  | Stars                                                                   | Description                                      |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 207,443 \| 🐛 5,744 \| 🌐 TypeScript \| 📅 2026-09-15**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 207,720 \| 🐛 5,759 \| 🌐 TypeScript \| 📅 2026-09-16**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
 | **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) ⭐ 93 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-02-03**       | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
-| **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 158 \| 🐛 5 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
+| **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 160 \| 🐛 5 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
 | **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 280 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
 
 <br>
@@ -284,7 +284,7 @@ Key features:
 * Persistent Memory with SQLite for tool executions and session summaries
 
   <br><br>
-  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19
+  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19
 
   </blockquote>
 * 25 specialist agents (architect, planner, coder, reviewer, tester, debugger, risk-analyst, policy-enforcer, and more)
@@ -2210,4 +2210,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
