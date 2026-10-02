@@ -45,10 +45,10 @@
 
 | Project                                                                                                                  | Stars                                                                   | Description                                      |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 211,209 \| 🐛 6,282 \| 🌐 TypeScript \| 📅 2026-10-01**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
-| **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) ⭐ 93 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-02-03**       | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
-| **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 163 \| 🐛 4 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
-| **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 284 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 211,372 \| 🐛 6,134 \| 🌐 TypeScript \| 📅 2026-10-02**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) ⭐ 94 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-02-03**       | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
+| **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 164 \| 🐛 4 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
+| **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 285 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
 
 <br>
 
@@ -2210,4 +2210,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

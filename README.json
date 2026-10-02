@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:00:41Z",
-            "open_issues": 6282,
+            "last_commit": "2026-10-02T05:54:44Z",
+            "open_issues": 6134,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 211209,
+            "stars": 211372,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "anomalyco",
             "repo": "opencode-sdk-js",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "anomalyco",
             "repo": "opencode-sdk-go",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -82,7 +82,7 @@
             "open_issues": 15,
             "owner": "anomalyco",
             "repo": "opencode-sdk-python",
-            "stars": 284,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -125,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:16:00.566Z",
+    "last_updated": "2026-10-02T05:57:13.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -134,10 +134,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-07-03T14:10:38Z",
-      "open_issues": 415,
+      "open_issues": 419,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 10439,
+      "stars": 10447,
       "topics": []
     },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
