@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:54:44Z",
-            "open_issues": 6134,
+            "last_commit": "2026-10-03T04:57:49Z",
+            "open_issues": 6193,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 211372,
+            "stars": 211525,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -86,46 +86,47 @@
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Persistent Memory with SQLite for tool executions and session summaries",
+              "description": "DVNghiem/FlowDeck",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI-powered multi-agent workflow orchestration with built-in safety intelligence for OpenCode",
+                "homepage": null,
+                "id": 1225102492,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-19T12:29:01Z",
+                "open_issues": 3,
+                "owner": "DVNghiem",
+                "repo": "FlowDeck",
+                "stars": 29,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "opencode",
+                  "opencode-plugin",
+                  "orchestration"
+                ]
+              },
+              "first_seen": "2026-08-28T11:35:42.880Z"
+            }
+          ],
+          "description": "Key features:",
+          "node_type": "group",
+          "title": "FlowDeck - AI-powered multi-agent workflow orchestration with built-in safety intelligence"
         }
       ],
       "title": "Overview"
-    },
-    {
-      "description": "Key features:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Persistent Memory with SQLite for tool executions and session summaries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI-powered multi-agent workflow orchestration with built-in safety intelligence for OpenCode",
-            "homepage": null,
-            "id": 1225102492,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-19T12:29:01Z",
-            "open_issues": 3,
-            "owner": "DVNghiem",
-            "repo": "FlowDeck",
-            "stars": 29,
-            "topics": [
-              "agentic-ai",
-              "ai-agents",
-              "opencode",
-              "opencode-plugin",
-              "orchestration"
-            ]
-          },
-          "first_seen": "2026-08-28T11:35:42.880Z"
-        }
-      ],
-      "title": "FlowDeck - AI-powered multi-agent workflow orchestration with built-in safety intelligence"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:57:13.361Z",
+    "last_updated": "2026-10-03T04:58:39.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -137,7 +138,7 @@
       "open_issues": 419,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 10447,
+      "stars": 10458,
       "topics": []
     },
     "original_repository_sha": "bcc5c03cec19789b45ef9af4a969e3fe3fd7431b",
