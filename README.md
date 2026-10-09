@@ -45,7 +45,7 @@
 
 | Project                                                                                                                  | Stars                                                                   | Description                                      |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 212,258 \| 🐛 6,204 \| 🌐 TypeScript \| 📅 2026-10-08**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 212,252 \| 🐛 6,171 \| 🌐 TypeScript \| 📅 2026-10-09**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
 | **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) ⭐ 94 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-02-03**       | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
 | **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 164 \| 🐛 4 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
 | **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 286 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
@@ -284,7 +284,7 @@ Key features:
 * Persistent Memory with SQLite for tool executions and session summaries
 
   <br><br>
-  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19
+  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19
 
   </blockquote>
 * 25 specialist agents (architect, planner, coder, reviewer, tester, debugger, risk-analyst, policy-enforcer, and more)
@@ -2210,4 +2210,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
