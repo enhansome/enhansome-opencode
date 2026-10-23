@@ -45,10 +45,10 @@
 
 | Project                                                                                                                  | Stars                                                                   | Description                                      |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 219,812 \| 🐛 3,701 \| 🌐 TypeScript \| 📅 2026-10-22**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 220,284 \| 🐛 3,645 \| 🌐 TypeScript \| 📅 2026-10-23**            | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
 | **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) ⭐ 95 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-02-03**       | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
 | **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⭐ 165 \| 🐛 4 \| 🌐 Go \| 📅 2026-01-17**              | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
-| **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 287 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
+| **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python) ⭐ 286 \| 🐛 15 \| 🌐 Python \| 📅 2026-01-30** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
 
 <br>
 
@@ -2210,4 +2210,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
