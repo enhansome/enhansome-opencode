@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T06:52:26Z",
-            "open_issues": 4238,
+            "last_commit": "2026-11-12T06:51:31Z",
+            "open_issues": 4248,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 225962,
+            "stars": 226252,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -30,17 +30,17 @@
           "description": "Official Go SDK for opencode.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": null,
             "homepage": null,
             "id": 1009629503,
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-01-17T04:14:42Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "anomalyco",
             "repo": "opencode-sdk-go",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -63,7 +63,7 @@
                 "open_issues": 3,
                 "owner": "DVNghiem",
                 "repo": "FlowDeck",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -84,7 +84,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:52:37.595Z",
+    "last_updated": "2026-11-12T07:29:15.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -93,10 +93,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-11-06T16:33:04Z",
-      "open_issues": 24,
+      "open_issues": 26,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 10949,
+      "stars": 10967,
       "topics": []
     },
     "original_repository_sha": "a23b18eda5d062288cc3ba8f775cc6756dd77df7",
