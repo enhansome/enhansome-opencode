@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T06:59:50Z",
-            "open_issues": 3998,
+            "last_commit": "2026-11-14T04:21:43Z",
+            "open_issues": 4001,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 226519,
+            "stars": 226726,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -59,11 +59,11 @@
                 "id": 1225102492,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-19T12:29:01Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-14T04:03:05Z",
+                "open_issues": 1,
                 "owner": "DVNghiem",
                 "repo": "FlowDeck",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -84,7 +84,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:00:11.129Z",
+    "last_updated": "2026-11-14T06:49:36.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -92,14 +92,14 @@
       "id": 1061458721,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-06T16:33:04Z",
-      "open_issues": 25,
+      "last_commit": "2026-11-13T11:55:29Z",
+      "open_issues": 24,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 10972,
+      "stars": 10980,
       "topics": []
     },
-    "original_repository_sha": "a23b18eda5d062288cc3ba8f775cc6756dd77df7",
+    "original_repository_sha": "c125252fe11f2021c58545e705d4f69d5c6092f0",
     "enhanced_repository": "enhansome/enhansome-opencode",
     "enhanced_repository_description": null,
     "title": "Awesome opencode with stars"
