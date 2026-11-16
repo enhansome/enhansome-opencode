@@ -45,7 +45,7 @@
 
 | Project                                                                                                       | Stars                                                                   | Description                                      |
 | :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 226,918 \| 🐛 4,013 \| 🌐 TypeScript \| 📅 2026-11-15** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 227,120 \| 🐛 4,033 \| 🌐 TypeScript \| 📅 2026-11-16** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
 | **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js)**                                           | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
 | **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⚠️ Archived**                               | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
 | **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)**                                   | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
@@ -309,7 +309,7 @@ Key features:
 * Persistent Memory with SQLite for tool executions and session summaries
 
   <br><br>
-  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14
+  [🔗 <b>View Repository</b>](https://github.com/DVNghiem/FlowDeck) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-15
 
   </blockquote>
 * 25 specialist agents (architect, planner, coder, reviewer, tester, debugger, risk-analyst, policy-enforcer, and more)
@@ -2010,4 +2010,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
