@@ -45,7 +45,7 @@
 
 | Project                                                                                                       | Stars                                                                   | Description                                      |
 | :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------- | :----------------------------------------------- |
-| **[opencode](https://github.com/anomalyco/opencode) ⭐ 227,120 \| 🐛 4,033 \| 🌐 TypeScript \| 📅 2026-11-16** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
+| **[opencode](https://github.com/anomalyco/opencode) ⭐ 227,414 \| 🐛 4,037 \| 🌐 TypeScript \| 📅 2026-11-17** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode)            | The official opencode AI coding agent.           |
 | **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js)**                                           | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js)     | Official JavaScript/TypeScript SDK for opencode. |
 | **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go) ⚠️ Archived**                               | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go)     | Official Go SDK for opencode.                    |
 | **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)**                                   | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode.                |
@@ -2010,4 +2010,4 @@ Found an Awesome Opencode project? <br>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
