@@ -15,11 +15,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T10:11:26Z",
-            "open_issues": 4067,
+            "last_commit": "2026-11-25T08:07:00Z",
+            "open_issues": 4160,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 228879,
+            "stars": 229054,
             "topics": []
           },
           "first_seen": "2026-08-28T11:35:42.880Z"
@@ -84,7 +84,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:11:41.558Z",
+    "last_updated": "2026-11-25T08:56:31.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
@@ -93,10 +93,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-11-13T11:55:29Z",
-      "open_issues": 52,
+      "open_issues": 54,
       "owner": "awesome-opencode",
       "repo": "awesome-opencode",
-      "stars": 11089,
+      "stars": 11095,
       "topics": []
     },
     "original_repository_sha": "c125252fe11f2021c58545e705d4f69d5c6092f0",
